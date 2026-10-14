@@ -1,4 +1,6 @@
-# ECON323 — Does Student Sentiment Move Professor Pay?
+# THIS PROECT HAS BEEN MOVED TO [UBC COURSE INSIGHTS](https://github.com/krishaant/ubc-course-insights)
+
+## ECON323 — Does Student Sentiment Move Professor Pay?
 
 Final project for ECON323, tying together real-world datasets to see whether student sentiment shows up in how UBC professors are paid.
 
